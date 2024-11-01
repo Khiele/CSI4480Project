@@ -48,21 +48,6 @@ cd phishing-detector
 ```bash
 pip install flask
 ```
-
-[Rest of README remains the same as before with sections on:]
-- Project Structure
-- Configuration
-- Running the Application
-- Understanding Results
-- Security Considerations
-- Customization
-- Logging
-- Troubleshooting
-- Performance Optimization
-- Contributing
-- License
-- Contact
-
 ## ❗ Important Note
 Make sure you have completed the unsloth setup from the video tutorial before proceeding with the rest of the installation. Proper setup of unsloth and CUDA is crucial for the application to function correctly.
 
