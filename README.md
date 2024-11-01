@@ -51,6 +51,8 @@ pip install flask
 ## ❗ Important Note
 Make sure you have completed the unsloth setup from the video tutorial before proceeding with the rest of the installation. Proper setup of unsloth and CUDA is crucial for the application to function correctly.
 
+NEVER MAKE COMMITS WITH THE adapter_model.safetensors file attached. Always backup the file elsewhere and delete it in the project before making ANY changes
+
 ## 🐛 Troubleshooting Unsloth
 
 If you encounter issues with unsloth:
