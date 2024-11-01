@@ -17,6 +17,9 @@ A Flask-based web application that uses an ensemble approach combining rule-base
 - Comprehensive result visualization
 - GPU-accelerated inference
 
+![image](https://github.com/user-attachments/assets/9938a3d0-b24e-4cd7-b30d-c58ee0bf98f8)
+
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following requirements:
