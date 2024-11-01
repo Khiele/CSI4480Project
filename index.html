@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Safety Prediction</title>
+</head>
+<body>
+    <h1>Email Safety Prediction</h1>
+    <form method="POST">
+        <textarea name="email" rows="10" cols="50" placeholder="Enter email text here..."></textarea><br>
+        <input type="submit" value="Check Safety">
+    </form>
+    {% if prediction %}
+        <h2>Prediction: {{ prediction }}</h2>
+        <h3>Email Submitted:</h3>
+        <p>{{ email }}</p>
+    {% endif %}
+</body>
+</html>
