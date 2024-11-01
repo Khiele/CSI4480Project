@@ -33,7 +33,7 @@ Before you begin, ensure you have the following requirements:
 
 1. **Unsloth Setup**
 - For detailed setup of unsloth in Visual Studio Code, please refer to this tutorial video:
-  [Unsloth Setup Guide](https://www.youtube.com/watch?v=UWF6dxQYbU&t=104s)
+  [Unsloth Setup Guide](https://www.youtube.com/watch?v=UWF6dxQYcbU&t=104s)
   - Follow the first 4 steps of the video for proper environment setup
 - Additional documentation can be found in the official unsloth documentation:
   [Unsloth Documentation](https://github.com/unslothai/unsloth)
